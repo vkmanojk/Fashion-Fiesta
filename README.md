@@ -1,6 +1,7 @@
 # [Fashion Fiesta](https://github.com/vkmanojk/Fashion-Fiesta)
 ### An e-commerce service with additional try-on facility where the user can witness how he/she would look if he/she wears the selected apparel.
 
+* [Requisites](#requisites)
 * [Setup](#setup)
 * [Test](#test)
 
