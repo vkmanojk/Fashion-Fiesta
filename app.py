@@ -20,9 +20,9 @@ configure_uploads(app, photos)
 
 mysql = MySQL()
 app.config['MYSQL_HOST'] = '127.0.0.1'
-app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = 'manojkumar'
-app.config['MYSQL_DB'] = 'Orion'
+app.config['MYSQL_USER'] = 'your-username'
+app.config['MYSQL_PASSWORD'] = 'your-password'
+app.config['MYSQL_DB'] = 'Name-of-the-database'
 app.config['MYSQL_CURSORCLASS'] = 'DictCursor'
 
 mysql.init_app(app)
