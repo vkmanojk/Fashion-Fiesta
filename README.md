@@ -41,5 +41,4 @@ Again, run
 ```
 python app.py
 ```
-in this [repository](https://github.com/vkmanojk/Fashion-Fiesta)
 
