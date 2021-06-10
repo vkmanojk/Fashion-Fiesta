@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 Additionally, `setup.sh` will clone and setup auxiliary repositories that do the [Human parsing](https://github.com/vkmanojk/HumanParsing.git), [Pose estimation](https://github.com/vkmanojk/Pose-Estimation.git), and [Clothing style transfer](https://github.com/vkmanojk/VirtualTrialRoom.git) steps. This process will download models for each of the tasks.
 
-The e-commerce website designed for this project is available here [Fashion Fiesta](https://github.com/vkmanojk/Fashion-Fiesta.git). This website was built using Flask and MySQL. The create statements required to initiate the database is also provided in the `MySQL-Setup.sql`
+This website was built using Flask and MySQL. The create statements required to initiate the database is also provided in the `MySQL-Setup.sql`
 
 ### Test
 
